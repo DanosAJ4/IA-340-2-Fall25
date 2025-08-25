@@ -12,3 +12,11 @@ Data mining is the nontrivial extraction of previously unknown and potential use
 
 - Mini project
 - Final project
+
+### In-Class Assignment
+
+*Practice work* Using various syntax will recreate different effects. **Emphasis** is best used through '** **' or *subtle emphasis* with '* *'
+
+#### Repository Purpose
+
+This will house various practice and submitted assignments from Fall Semester of JMU's IA 340 beginning 8/2025, ending 12/2025.
