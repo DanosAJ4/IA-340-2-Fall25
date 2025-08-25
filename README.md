@@ -15,7 +15,7 @@ Data mining is the nontrivial extraction of previously unknown and potential use
 
 ### In-Class Assignment
 
-*Practice work* Using various syntax will recreate different effects. **Emphasis** is best used through '** **' or *subtle emphasis* with '* *'
+*Practice work* Using various syntax will recreate different effects. **Emphasis** or *subtle emphasis* are both valuable for directing readers.
 
 #### Repository Purpose
 
