@@ -6,7 +6,7 @@ Data mining is the nontrivial extraction of previously unknown and potential use
 
 ## Content 
 
-1. Lab1[https://github.com/DanosAJ4/IA-340-2-Fall25/blob/main/lab1.ipynb]
+1. [Lab1](https://github.com/DanosAJ4/IA-340-2-Fall25/blob/main/lab1.ipynb)
 2. Lab2
 3. Lab3
 
