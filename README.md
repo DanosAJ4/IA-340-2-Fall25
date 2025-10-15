@@ -7,9 +7,9 @@ Data mining is the nontrivial extraction of previously unknown and potential use
 ## Content 
 
 1. [Lab1](https://github.com/DanosAJ4/IA-340-2-Fall25/blob/main/lab1.ipynb)
-3. [Lab6](https://github.com/DanosAJ4/IA-340-2-Fall25/blob/main/Lab_6.ipynb)
+2. [Lab6](https://github.com/DanosAJ4/IA-340-2-Fall25/blob/main/Lab_6.ipynb)
 
-- Mini project
+- [Mini project]()
 - Final project
 
 ### In-Class Assignment
